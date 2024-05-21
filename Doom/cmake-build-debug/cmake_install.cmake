@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Yakovlev Sergey/CLionProjects/Doom
+# Install script for directory: C:/Users/Yakovlev Sergey/CLionProjects/DoomWorking11/DoomWorking4/DoomWorking1/Doom
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -37,6 +37,16 @@ if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/objdump.exe")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/Yakovlev Sergey/CLionProjects/DoomWorking11/DoomWorking4/DoomWorking1/Doom/cmake-build-debug/model/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/Yakovlev Sergey/CLionProjects/DoomWorking11/DoomWorking4/DoomWorking1/Doom/cmake-build-debug/controller/cmake_install.cmake")
+endif()
+
 if(CMAKE_INSTALL_COMPONENT)
   set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")
 else()
@@ -45,5 +55,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Yakovlev Sergey/CLionProjects/Doom/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Yakovlev Sergey/CLionProjects/DoomWorking11/DoomWorking4/DoomWorking1/Doom/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

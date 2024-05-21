@@ -1,3 +1,7 @@
-C:/Users/Yakovlev Sergey/CLionProjects/Doom/cmake-build-debug/CMakeFiles/Doom.dir
-C:/Users/Yakovlev Sergey/CLionProjects/Doom/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Yakovlev Sergey/CLionProjects/Doom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Yakovlev Sergey/CLionProjects/DoomWorking11/DoomWorking4/DoomWorking1/Doom/cmake-build-debug/CMakeFiles/Doom.dir
+C:/Users/Yakovlev Sergey/CLionProjects/DoomWorking11/DoomWorking4/DoomWorking1/Doom/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yakovlev Sergey/CLionProjects/DoomWorking11/DoomWorking4/DoomWorking1/Doom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Yakovlev Sergey/CLionProjects/DoomWorking11/DoomWorking4/DoomWorking1/Doom/cmake-build-debug/model/CMakeFiles/edit_cache.dir
+C:/Users/Yakovlev Sergey/CLionProjects/DoomWorking11/DoomWorking4/DoomWorking1/Doom/cmake-build-debug/model/CMakeFiles/rebuild_cache.dir
+C:/Users/Yakovlev Sergey/CLionProjects/DoomWorking11/DoomWorking4/DoomWorking1/Doom/cmake-build-debug/controller/CMakeFiles/edit_cache.dir
+C:/Users/Yakovlev Sergey/CLionProjects/DoomWorking11/DoomWorking4/DoomWorking1/Doom/cmake-build-debug/controller/CMakeFiles/rebuild_cache.dir
